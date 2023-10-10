@@ -2,21 +2,25 @@
     {
         "name": "IRON MAN",
         "description": "Genius inventor Tony Stark continued his father Howard Stark’s weaponry business after his parents’ untimely deaths and flew it to even greater heights of innovation. While in Afghanistan to demonstrate a new missile for the U.S. military, Stark’s convoy came under fire by a terrorist group known as the Ten Rings and he was severely wounded. Taken prisoner by the group, Stark awoke in their headquarters to learn that shrapnel near inserted a powerful electromagnet in Stark’s chest—would prolong it temporarily.",
-        "image_source": "https://e3.365dm.com/16/05/1600x900/cwg0800-v009-038304-1013-2-2048x1536_3460849.jpg"
+        "image_source": "https://e3.365dm.com/16/05/1600x900/cwg0800-v009-038304-1013-2-2048x1536_3460849.jpg",
+        "url": "iron-man"
     },
     {
         "name": "CAPTAIN AMERICA",
         "description": "Envious of his friend Bucky Barnes’ military enlistment, and undeterred by his own multiple rejections bythe U.S. Army, physical weakling Steve Rogers made one more attempt to join the march of men to fight for their country in the dark days of World War II. Rogers’ valiant wish to fight bullies wherever they were grabbed the attention of scientist Dr. Abraham Erskine, and he handpicked the idealistic young man for the Army’s Super-Soldier program under his supervision.",
-        "image_source": "https://wallpaperaccess.com/full/4783780.jpg"
+        "image_source": "https://wallpaperaccess.com/full/4783780.jpg",
+        "url": "captain-america"
     },
     {
         "name": "DOCTOR STRANGE",
         "description": "Vain, egotistic surgeon Stephen Strange lost the use of his hands in a horrific auto accident caused by his own recklessness. In turn, he lost his fortune through a series of costly, complicated and experimental surgeries and therapies in an attempt to save his livelihood. In the end, destitute and desperate, he sought a cure far off the beaten path of modern medicine. In Nepal, after being saved from muggers by the powerful sorcerer Mordo, Strange met the person who had taught Mordo—Earth’s Sorcerer Supreme, the Ancient One, who held many mysteries of the Old World, including the potential to heal Strange’s hands. The Ancient One refused to guide Strange through the process until he relinquished his selfishness and opened his mind to a higher truth. Having done so, the doctor began to learn of the Multiverse and the ancient science of magic, as well as forbidden knowledge the Ancient One was not inclined to share.",
-        "image_source": "https://images.mid-day.com/images/images/2022/may/bendict_d.jpg"
+        "image_source": "https://images.mid-day.com/images/images/2022/may/bendict_d.jpg",
+        "url": "doctor-strange"
     },
     {
         "name": "DRAX",
         "description": "Drax comes from an underdeveloped race whose people are completely literal and have difficulty grasping metaphors, though they make up for it with their eloquent speech. They are also fierce warriors with a tribal-like culture. His calm and serious demeanor hides the seething rage and murderous hatred below the surface. ",
-        "image_source": "https://i.pinimg.com/564x/a9/04/5e/a9045e65b72b38fe4a75c8884c74d064.jpg"
+        "image_source": "https://i.pinimg.com/564x/a9/04/5e/a9045e65b72b38fe4a75c8884c74d064.jpg",
+        "url": "drax"
     }
 ]
