@@ -1,7 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
 
-{{ company[1]["name"] }}
 
 <h2>{{ page_title }}</h2>
 <p>
@@ -21,18 +20,18 @@
     concluding the Multiverse Saga.
 </p>
 
-    { % for member in company % }
+    {% for member in company %}
 
         <div class="row featurette">
             <div class="col-md-7">
-                <h3>{{member.name}}</h3>
-                <p>{{ member.discription}}</p>
+                <h3>{{ member.name }}</h3>
+                <p>{{ member.description }}</p>
             </div>
             <div class="col-md-5 down">
-                <img src="{{ member.img_source }}" alt="" class="featurette-image image-responsive">
+                <img src="{{ member.image_source }}" alt="" class="featurette-image image-responsive">
             </div>
         </div>
 
-        <hr class="featurette-devider">
+        <hr class="featurette-divider">
     {% endfor %}
 {% endblock %}
